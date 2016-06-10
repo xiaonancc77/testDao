@@ -1,0 +1,5 @@
+com\test\DES.class
+com\test\service\docker\impl\TestServiceImpl.class
+com\test\api\registry\TestController.class
+com\test\Application.class
+com\test\service\docker\TestService.class

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: New Relic Java Agent
+Implementation-Version: 3.28.0
+Created-By: New Relic, Inc
+Built-By: jenkins
+Built-Date: Wed Apr 20 11:00:36 PDT 2016
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Specification-Version: 3.28.0
+Build-Id: true
+Premain-Class: com.newrelic.bootstrap.BootstrapAgent
+Main-Class: com.newrelic.bootstrap.BootstrapAgent
+
